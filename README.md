@@ -1,6 +1,6 @@
 # BornilPortfolio 
 #link 
-[https://bornil-s-digital-canvas.vercel.app/](https://bornil-s-digital-canvas.vercel.app/)
+https://bornil-live-protfolio.vercel.app/
 
 # 👋 Hi, I'm Bornil Mahmud 
 
