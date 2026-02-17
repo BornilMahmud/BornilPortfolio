@@ -1,7 +1,7 @@
 # BornilPortfolio 
 #link 
-https://bornil-live-protfolio.vercel.app/
-
+[https://bornil-live-protfolio.vercel.app/
+](https://bornilprotfolio.vercel.app/)
 # 👋 Hi, I'm Bornil Mahmud 
 
 🚀 **Aspiring Developer | Video Editor | Tech Enthusiast**  
